@@ -1,3 +1,31 @@
+### Technologies used:
+
+- HTML 
+- TailwindCSS
+- React 
+- JavaScript
+- JSX
+- Firebase Firestore
+
+
+### Concepts in the project:
+
+- Web development
+- React
+- Components web development
+- Dynamic website
+- Mapping
+- Props
+- State | Ref | Effect
+- API use
+- API mapping
+- Constants
+- Multiple Page Dynamic Website
+- Reuseable Components
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
